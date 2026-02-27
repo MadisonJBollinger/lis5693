@@ -4,3 +4,4 @@ url = "https://raw.githubusercontent.com/MadisonJBollinger/lis5693/refs/heads/ma
 
 response = requests.get(url)
 text = response.text
+print(text[:500])
