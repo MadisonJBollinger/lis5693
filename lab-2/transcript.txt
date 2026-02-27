@@ -1,0 +1,6 @@
+import requests
+
+url = "PASTE_RAW_LINK_HERE"
+
+response = requests.get(url)
+text = response.text
