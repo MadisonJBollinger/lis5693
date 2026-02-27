@@ -1,6 +1,6 @@
 import requests
 
-url = "PASTE_RAW_LINK_HERE"
+url = "https://raw.githubusercontent.com/MadisonJBollinger/lis5693/refs/heads/main/lab-1/transcript-2.txt"
 
 response = requests.get(url)
 text = response.text
