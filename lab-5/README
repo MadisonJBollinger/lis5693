@@ -2,9 +2,9 @@
 
 ## 📊 Assignment: Lab 5 Notebook
 
-This notebook contains my work for Lab 5 in LIS 5693.
-
-### ▶️ Open in Google Colab
-Click the badge below to open the notebook directly in Colab:
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MadisonJBollinger/lis5693/blob/main/lab-2/5693_lab2.ipynb)
+This file contains my work for Lab 5 in LIS 5693.
+Issues have been fixed. I also Uploaded multiple times 
+to ensure it was correct. After an accidental erase of 
+Labs 2-5 I had to go back into the history and was able to restore
+the branch. After doing that I re-pushed the lab-5.ipybn as I had 
+made the changes in the file that orphaned the Labs 2-5 that I restored.
