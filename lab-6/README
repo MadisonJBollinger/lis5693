@@ -3,3 +3,9 @@
 ## 📊 Assignment: Lab 6 Notebook
 
 This file contains my work for Lab 6 in LIS 5693.
+
+As a personal reminder to myself, for Labs like this that includes the graphs and other items of similar use,
+I will need to clear the output in CoLab and then save to GitHub, otherwise it comes back as a Network error when viewing on GitHub.
+
+ALso need to remeber that when saving to github the file name needs to be "lab-6/Lab-6.ipynb" in order for the 
+link button to work correctly. Otherwise, it will not go directly to Colab notebook and will render it unusable.
